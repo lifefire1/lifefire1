@@ -1,25 +1,21 @@
-# Welcome to My GitHub Profile! 🚀
+# 💫 About Me:
+I'm currently actively working on open-source development for Jenkins.<br>I would like to collaborate with ambitious and bold people.<br>I can help with learning Java, Spring (Boot), Docker, and building high-load servers.<br>I'm currently developing in various directions, including networks and high-load systems.<br>You can ask me for help in getting started with supporting open-source projects.<br>I took first place in the French branch of 42.fr.
 
-## 👋 Hello there! 
 
-I'm thrilled to welcome you to my GitHub profile. I'm a passionate beginner programmer, diving into the fascinating realms of Java, C, and Go. My journey in the coding universe has been an exciting adventure, fueled by a profound interest in crafting innovative solutions.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=lifefire1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lifefire1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lifefire1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ What I Love
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=lifefire1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- **Malware Crafting**: Delving into the intricacies of malicious software, exploring the world of cybersecurity, and understanding the mechanisms that power various types of malware. 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lifefire1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- **Cryptographic Algorithms**: Creating cryptographic algorithms that secure digital communication and information, ensuring privacy and integrity.
+---
+[![](https://visitcount.itsvg.in/api?id=lifefire1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Socket Protocols**: Exploring and developing socket protocols to facilitate seamless and efficient communication between computers over a network.
-
-- **Decentralized Networks**: Fascinated by the concept of decentralized networks and actively involved in developing and understanding their protocols and applications.
-
-## 🌱 Learning and Growing
-
-I'm constantly learning and growing in the programming landscape, striving to expand my knowledge and skill set. I believe in the power of collaboration and the magic that happens when diverse minds come together to create.
-
-## 🤝 Let's Connect
-
-I'm always open to collaboration, discussions, and sharing knowledge. If you're passionate about the same things or have exciting projects in mind, let's connect and create something amazing! Feel free to explore my repositories and join me on this coding journey. 🌟
-
-Thank you for stopping by! 🙌
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
